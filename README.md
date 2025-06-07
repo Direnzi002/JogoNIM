@@ -33,7 +33,7 @@ Adicione aqui uma imagem da tela do jogo, caso deseje apresentar visualmente o p
 
 🚀 Como Executar
 Certifique-se de ter o Flutter instalado. Clone o repositório e execute os seguintes comandos:
-
+```
 bash
 Copiar
 Editar
@@ -41,6 +41,7 @@ git clone https://github.com/seu-usuario/jogo-nim-flutter.git
 cd jogo-nim-flutter
 flutter pub get
 flutter run
+```
 
 📚 Créditos
 Este projeto foi desenvolvido como parte do curso técnico da ETEC de Carapicuíba, com foco na aplicação prática de Flutter para desenvolvimento mobile multiplataforma.
